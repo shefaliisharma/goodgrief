@@ -52,4 +52,4 @@ GROUP BY genre_split, startyear
 ORDER BY genre_split, startyear;
 ```
 
-[![Visual01](assets/viz1.png)](https://public.tableau.com/views/IMDbdatasetGenreTimeSeries/Ratingsanalysisovertheyears?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[![Visual01](assets/viz01.png)](https://public.tableau.com/views/IMDbdatasetGenreTimeSeries/Ratingsanalysisovertheyears?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
